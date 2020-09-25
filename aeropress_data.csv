@@ -1,0 +1,2 @@
+date,time,method,filter,coffee_type,roast,grind_size,coffee_weight,brew_water_weight,brew_water_temp,pour_duration,stir_start_time,stir_duration,push_start_time,push_duration,overall_duration,added_water_weight,added_water_temp,extraction,body,rating,notes
+2020-09-25,09:00 AM,inverted,AeroPress paper,Revelator Coffee Misfit,3,26,24,180,186,10,5,15,95,40,135,0,,2,medium,6,
