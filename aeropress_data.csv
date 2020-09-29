@@ -1,2 +1,13 @@
-date,time,method,filter,coffee_type,roast,grind_size,coffee_weight,brew_water_weight,brew_water_temp,pour_duration,stir_start_time,stir_duration,push_start_time,push_duration,overall_duration,added_water_weight,added_water_temp,extraction,body,rating,notes
-2020-09-25,09:00 AM,inverted,AeroPress paper,Revelator Coffee Misfit,3,26,24,180,186,10,5,15,95,40,135,0,,2,medium,6,
+date,time,drink_type,method,filter,coffee_type,roast,grind_size,coffee_weight,brew_water_weight,brew_water_temp,pour_duration,stir_start_time,stir_duration,push_start_time,push_duration,overall_duration,added_water_weight,added_water_temp,extraction,body,rating,notes
+2020-09-25,9:00 AM,coffee,inverted,AeroPress paper,Revelator Coffee Misfit,3,26,24,180,186,15,15,15,95,40,135,,,2,medium,6,
+2020-09-28,10:30 AM,espresso,inverted,AbleDisk Standard,Revelator Coffee Misfit,3,26,20,84,186,15,15,30,95,10,105,,,4,full,7,
+2020-09-25,01:50 PM,coffee,inverted,AeroPress paper,Revelator Coffee Misfit,3,26,24,180,190,20,20,30,95,40,135,80,190,4,medium,6,
+2020-09-29,8:30 AM,espresso,inverted,AbleDisk Fine,Revelator Coffee Misfit,3,26,21,84,190,15,15,30,120,10,130,,,4,medium,7,
+2020-09-25,9:00 AM,coffee,inverted,AeroPress paper,Revelator Coffee Misfit,3,26,24,180,186,15,15,15,95,40,135,,,2,medium,6,
+2020-09-28,10:30 AM,espresso,inverted,AbleDisk Standard,Revelator Coffee Misfit,3,26,20,84,186,15,15,30,95,10,105,,,4,full,7,
+2020-09-25,01:50 PM,coffee,inverted,AeroPress paper,Revelator Coffee Misfit,3,26,24,180,190,20,20,30,95,40,135,80,190,4,medium,6,
+2020-09-29,8:30 AM,espresso,inverted,AbleDisk Fine,Revelator Coffee Misfit,3,26,21,84,190,15,15,30,120,10,130,,,4,medium,7,
+2020-09-25,9:00 AM,coffee,inverted,AeroPress paper,Revelator Coffee Misfit,3,26,24,180,186,15,15,15,95,40,135,,,2,medium,6,
+2020-09-28,10:30 AM,espresso,inverted,AbleDisk Standard,Revelator Coffee Misfit,3,26,20,84,186,15,15,30,95,10,105,,,4,full,7,
+2020-09-25,01:50 PM,coffee,inverted,AeroPress paper,Revelator Coffee Misfit,3,26,24,180,190,20,20,30,95,40,135,80,190,4,medium,6,
+2020-09-29,8:30 AM,espresso,inverted,AbleDisk Fine,Revelator Coffee Misfit,3,26,21,84,190,15,15,30,120,10,130,,,4,medium,7,

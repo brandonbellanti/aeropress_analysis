@@ -1,0 +1,2 @@
+date,time,drink_type,method,filter,coffee_type,roast,grind_size,coffee_weight,brew_water_weight,brew_water_temp,pour_duration,stir_start_time,stir_duration,push_start_time,push_duration,overall_duration,added_water_weight,added_water_temp,extraction,body,rating,notes
+2020-09-26,8:30 AM,espresso,inverted,AbleDisk Fine,Revelator Coffee Misfit,3,26,21,84,190,15,15,30,120,10,130,,,4,medium,7,

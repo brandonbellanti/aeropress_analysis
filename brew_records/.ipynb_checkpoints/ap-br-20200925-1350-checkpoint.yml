@@ -1,0 +1,23 @@
+date: 2020-09-25
+time: 01:50 PM
+drink_type: coffee
+method: inverted
+filter: AeroPress paper
+coffee_type: Revelator Coffee Misfit
+roast: 3
+grind_size: 26
+coffee_weight: 24
+brew_water_weight: 180
+brew_water_temp: 190
+pour_duration: 20
+stir_start_time: 20
+stir_duration: 30
+push_start_time: 95
+push_duration: 40
+overall_duration: 135
+added_water_weight: 80
+added_water_temp: 190
+extraction: 4
+body: medium
+rating: 6
+notes:
