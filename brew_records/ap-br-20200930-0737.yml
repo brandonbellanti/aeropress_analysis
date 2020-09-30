@@ -1,0 +1,23 @@
+date: 2020-09-30
+time: 07:37 AM
+drink_type: espresso
+method: inverted
+filter: Able Disk Fine
+coffee_type: Revelator Misfit
+roast: 3
+grind_size: 20
+coffee_weight: 20
+brew_water_weight: 80
+brew_water_temp: 186
+pour_duration: 10
+stir_start_time: 10
+stir_duration: 30
+push_start_time: 95
+push_duration: 10
+overall_duration: 105
+added_water_weight:
+added_water_temp:
+extraction: 5
+body: full
+rating: 5
+notes:
