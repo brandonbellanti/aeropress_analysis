@@ -7,27 +7,27 @@ today = datetime.datetime.today()
 # create recprd template
 brew_record_template = f"""date: {today.strftime(r'%Y-%m-%d')}
 time: {today.strftime(r'%H:%M %p')}
-drink_type:
-method:
-filter:
-coffee_type:
-roast:
-grind_size:
-coffee_weight:
-brew_water_weight:
-brew_water_temp:
-pour_duration:
-stir_start_time:
-stir_duration:
-push_start_time:
-push_duration:
-overall_duration:
-added_water_weight:
-added_water_temp:
-extraction:
-body:
-rating:
-notes:"""
+drink_type: 
+method: 
+filter: 
+coffee_type: 
+roast: 
+grind_size: 
+coffee_weight: 
+brew_water_weight: 
+brew_water_temp: 
+pour_duration: 
+stir_start_time: 
+stir_duration: 
+push_start_time: 
+push_duration: 
+overall_duration: 
+added_water_weight: 
+added_water_temp: 
+extraction: 
+body: 
+rating: 
+notes: """
 
 # create new filepath in the project directory
 project_dir = '/Users/BrandonBel/Documents/Coding/projects/aeropress_analysis'

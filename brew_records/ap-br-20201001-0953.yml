@@ -1,0 +1,23 @@
+date: 2020-10-01
+time: 09:53 AM
+drink_type: espresso
+method: inverted
+filter: Able Disk Fine
+coffee_type: Revelator Lonely Hunter
+roast: 4
+grind_size: 22
+coffee_weight: 24
+brew_water_weight: 85
+brew_water_temp: 186
+pour_duration: 10
+stir_start_time: 20
+stir_duration: 30
+push_start_time: 95
+push_duration: 10
+overall_duration: 105
+added_water_weight:
+added_water_temp:
+extraction: 4
+body: full
+rating: 8
+notes:
